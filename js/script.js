@@ -130,7 +130,7 @@ const giftTypes = {
 
 async function renderGift() {
     try {
-        const response = await fetch('../gifts.json');
+        const response = await fetch('./gifts.json');
         const gifts = await response.json();
 
         const giftsContainer = document.querySelector('.gifts-container');
