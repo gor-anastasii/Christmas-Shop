@@ -78,17 +78,17 @@ filterBtns.forEach(({ element, category }) => {
 const giftTypes = {
     "For Work" : {
         "color":"#4361FF",
-        "image":"../images/gift-for-work.png",
+        "image":"./images/gift-for-work.png",
         "type": "work"
     },
     "For Health" : {
         "color":"#06A44F",
-        "image":"../images/gift-for-health.png",
+        "image":"./images/gift-for-health.png",
         "type":'health'
     },
     "For Harmony" : {
         "color":"#FF43F7",
-        "image":"../images/gift-for-harmony.png",
+        "image":"./images/gift-for-harmony.png",
         "type": "harmony"
     }
 }
