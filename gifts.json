@@ -1,0 +1,143 @@
+[
+    {
+      "name": "Bug Magnet",
+      "description": "Able to find bugs in code like they were placed there on purpose.",
+      "category": "For Work",
+      "superpowers": {
+        "live": 5,
+        "create": 5,
+        "love": 2,
+        "dream": 4
+      }
+    },
+
+    {
+      "name": "Joy Charger",
+      "description": "Finds joy in the little things—even in a build that finishes unexpectedly fast.",
+      "category": "For Harmony",
+      "superpowers": {
+        "live": 2,
+        "create": 2,
+        "love": 5,
+        "dream": 5
+      }
+    },
+  
+    {
+      "name": "Console.log Guru",
+      "description": "Uses console.log like a crystal ball to find any issue.",
+      "category": "For Work",
+      "superpowers": {
+        "live": 5,
+        "create": 5,
+        "love": 2,
+        "dream": 4
+      }
+    },
+  
+    {
+      "name": "Posture Levitation",
+      "description": "Can sit for hours, but maintains perfect posture like a ballerina.",
+      "category": "For Health",
+      "superpowers": {
+        "live": 4,
+        "create": 5,
+        "love": 5,
+        "dream": 4
+      }
+    },
+
+    {
+      "name": "Shortcut Cheater",
+      "description": "Knows every keyboard shortcut like they were born with them.",
+      "category": "For Work",
+      "superpowers": {
+        "live": 5,
+        "create": 5,
+        "love": 4,
+        "dream": 2
+      }
+    },
+  
+    {
+      "name": "Healthy Snacker",
+      "description": "Always picks fruit, even when chocolate is within arm’s reach.",
+      "category": "For Health",
+      "superpowers": {
+        "live": 4,
+        "create": 3,
+        "love": 2,
+        "dream": 4
+      }
+    },
+  
+    {
+      "name": "Chair Exerciser",
+      "description": "Manages to work out without leaving the chair.",
+      "category": "For Health",
+      "superpowers": {
+        "live": 5,
+        "create": 5,
+        "love": 5,
+        "dream": 4
+      }
+    },
+
+    {
+      "name": "Inspiration Maestro",
+      "description": "Finds inspiration on an empty screen as if masterpieces are already there.",
+      "category": "For Harmony",
+      "superpowers": {
+        "live": 3,
+        "create": 2,
+        "love": 4,
+        "dream": 1
+      }
+    },
+  
+    {
+      "name": "Caffeine Filter",
+      "description": "Drinks coffee at night and still falls asleep with no problem.",
+      "category": "For Health",
+      "superpowers": {
+        "live": 4,
+        "create": 3,
+        "love": 5,
+        "dream": 2
+      }
+    }, 
+    {
+      "name": "Merge Master",
+      "description": "Merges branches in Git without conflicts, like a wizard during an exam.",
+      "category": "For Work",
+      "superpowers": {
+        "live": 2,
+        "create": 5,
+        "love": 2,
+        "dream": 3
+      }
+    },
+    {
+      "name": "Error Laugher",
+      "description": "Laughs at code errors like they’re jokes instead of getting angry.",
+      "category": "For Harmony",
+      "superpowers": {
+        "live": 3,
+        "create": 2,
+        "love": 5,
+        "dream": 5
+      }
+    },
+  
+    {
+      "name": "Deadline Sage",
+      "description": "Remains zen even when the deadline is close and the project manager is stressed.",
+      "category": "For Harmony",
+      "superpowers": {
+        "live": 2,
+        "create": 2,
+        "love": 3,
+        "dream": 5
+      }
+    }
+]
